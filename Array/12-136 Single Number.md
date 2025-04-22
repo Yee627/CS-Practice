@@ -40,7 +40,7 @@ public class Solution {
     - a ^ 0 = a (XOR of any number with zero returns the number)
     - a ^ b ^ a = b (XOR is commutative and associative)
 
-e.g. [1,2,2,3,1]
+e.g. [1,2,2,3,1]\
 the binary reprentation of '0' is '0000'\
 the binary reprentation of '1' is '0001'\
 the binary reprentation of '2' is '0010'\
