@@ -41,15 +41,15 @@ public class Solution {
     - a ^ b ^ a = b (XOR is commutative and associative)
 
 e.g. [1,2,2,3,1]
-the binary reprentation of '0' is '0000'
-the binary reprentation of '1' is '0001'
-the binary reprentation of '2' is '0010'
-the binary reprentation of '3' is '0011'
+the binary reprentation of '0' is '0000'\
+the binary reprentation of '1' is '0001'\
+the binary reprentation of '2' is '0010'\
+the binary reprentation of '3' is '0011'\
 
-0 ^ 1 = 0001 
-1 ^ 2 = 0011
-3 ^ 2 = 0001
-1 ^ 3 = 0010
+0 ^ 1 = 0001\
+1 ^ 2 = 0011\
+3 ^ 2 = 0001\
+1 ^ 3 = 0010\
 2 ^ 1 = 0011, which is 3, so the answer is 3
 
 - Time Complexity: O(n) - perform a single pass through the array of n elements.
