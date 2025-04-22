@@ -44,7 +44,7 @@ e.g. [1,2,2,3,1]
 the binary reprentation of '0' is '0000'\
 the binary reprentation of '1' is '0001'\
 the binary reprentation of '2' is '0010'\
-the binary reprentation of '3' is '0011'\
+the binary reprentation of '3' is '0011'
 
 0 ^ 1 = 0001\
 1 ^ 2 = 0011\
